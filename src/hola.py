@@ -1,6 +1,0 @@
-print("Hola desde Python")
-
-
-
-
-
