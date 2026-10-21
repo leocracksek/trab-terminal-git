@@ -1,0 +1,3 @@
+2 pinzas: coincide
+1 pinza: faltan pinzas
+3 pinzas: sobran pinzas
