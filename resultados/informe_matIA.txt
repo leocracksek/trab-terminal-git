@@ -1,0 +1,3 @@
+pinzas esperadas 2
+pinzas observadas 2
+Ni sobran ni faltan pinzas

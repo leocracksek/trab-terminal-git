@@ -1,0 +1,30 @@
+Prueba 1: Coincide
+- Lista: ["pinza", "tijera", "pinza"]
+- Cantidad esperada: 2 pinzas.
+- Predicción: el numero de pinzas esperadas coincide con el numero de observadas
+- Comando utilizado: python src/recuento_matIA.py
+- Salida real: pinzas esperadas 2
+pinzas observadas 2
+Ni sobran ni faltan pinzas
+- Conclusión: Coincide con mi prediccion
+
+Prueba 2: Faltan pinzas
+- Lista: ["tijera", "pinza"]
+- Cantidad esperada: 2 pinzas.
+- Predicción: faltará una pinza porque solo hay una.
+- Comando utilizado: python src/recuento_matIA.py
+- Salida real: pinzas esperadas 2
+pinzas observadas 1
+Faltan pinzas
+- Conclusión: Coincide con mi prediccion
+
+
+Prueba 3: Sobran pinzas
+- Lista: ["pinza", "pinza", "tijera", "pinza"]
+- Cantidad esperada: 2 pinzas.
+- Predicción: sobraría una pinza porque hay tres.
+- Comando utilizado: python src/recuento_matIA.py
+- Salida real: pinzas esperadas 2
+pinzas observadas 3
+Sobran pinzas
+- Conclusión: Coincide con mi prediccion
